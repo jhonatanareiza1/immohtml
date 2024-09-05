@@ -1,0 +1,524 @@
+[
+    {
+        "id":"casa-01",
+        "titulo":"casa-01",
+        "imagen": ".././assets/imgs/tonma4fondo.png",
+        "categoria":{
+            "nombre": "Casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-02",
+        "titulo":"casa-02",
+        "imagen": ".././assets/imgs/barber.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-03",
+        "titulo":"casa-03",
+        "imagen": ".././assets/imgs/campamento.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-04",
+        "titulo":"casa-04",
+        "imagen": ".././assets/imgs/cohete1ps.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },{
+        "id":"casa-05",
+        "titulo":"casa-05",
+        "imagen": ".././assets/imgs/escuela1980.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-06",
+        "titulo":"casa-06",
+        "imagen": ".././assets/imgs/esudio2PHOTOSHOP.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-07",
+        "titulo":"Maquina para bolas",
+        "imagen": ".././assets/imgs/maquina de bolas3.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-08",
+        "titulo":"Casa navideña en Blender",
+        "imagen": ".././assets/imgs/navideña3.png",
+        "categoria":{
+            "nombre": "Casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"casa-09",
+        "titulo":"Habitacion estilo Japones",
+        "imagen": ".././assets/imgs/hab3.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+
+    {
+        "id":"casa-10",
+        "titulo":"Casino LED",
+        "imagen": ".././assets/imgs/maquinas.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado habitación plasticamaxpx"
+    },
+    {
+        "id":"casa-11",
+        "titulo":"Habitacion tipo plastica",
+        "imagen": ".././assets/imgs/habitación plasticamaxpx.png",
+        "categoria":{
+            "nombre": "casas",
+            "id":"casas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado "
+    },
+    {
+        "id":"apartamentos-01",
+        "titulo":"apartamentos-01",
+        "imagen": ".././assets/imgs/robot.png",
+        "categoria":{
+            "nombre": "Apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-02",
+        "titulo":"apartamentos-02",
+        "imagen": ".././assets/imgs/crab.jpg",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-03",
+        "titulo":"apartamentos-03",
+        "imagen": ".././assets/imgs/hulk.jpg",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-04",
+        "titulo":"apartamentos-04",
+        "imagen": ".././assets/imgs/MOSTRO.jpg",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-05",
+        "titulo":"apartamentos-05",
+        "imagen": ".././assets/imgs//natacha.gif",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-06",
+        "titulo":"apartamentos-06",
+        "imagen": ".././assets/imgs/pulpo.jpg",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"apartamentos-07",
+        "titulo":"apartamentos-07",
+        "imagen": ".././assets/imgs/spiderman.jpg",
+        "categoria":{
+            "nombre": "apartamentos",
+            "id":"apartamentos"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"lotes-01",
+        "titulo":"lotes-01",
+        "imagen": ".././assets/imgs/Screenshot_5.png",
+        "categoria":{
+            "nombre": "Lotes",
+            "id":"lotes"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"lotes-02",
+        "titulo":"lotes-02",
+        "imagen": ".././assets/imgs/prueba5.png",
+        "categoria":{
+            "nombre": "lotes",
+            "id":"lotes"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"lotes-03",
+        "titulo":"lotes-03",
+        "imagen": ".././assets/imgs/Screenshot_6.png",
+        "categoria":{
+            "nombre": "lotes",
+            "id":"lotes"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"lotes-04",
+        "titulo":"lotes-04",
+        "imagen": ".././assets/imgs/render fin.png",
+        "categoria":{
+            "nombre": "lotes",
+            "id":"lotes"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"lotes-05",
+        "titulo":"lotes-05",
+        "imagen": ".././assets/imgs/Screenshot_7.png",
+        "categoria":{
+            "nombre": "lotes",
+            "id":"lotes"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-01",
+        "titulo":"fincas-01",
+        "imagen": ".././assets/imgs/juancho-prueba.jpg",
+        "categoria":{
+            "nombre": "Fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-02",
+        "titulo":"fincas-02",
+        "imagen": ".././assets/imgs/j-parte.jpg",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-03",
+        "titulo":"fincas-03",
+        "imagen": ".././assets/imgs/Screenshot_2.png",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-04",
+        "titulo":"fincas-04",
+        "imagen": ".././assets/imgs/novia-bellafirmada.png",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-05",
+        "titulo":"fincas-05",
+        "imagen": ".././assets/imgs/PERSONAJE-1.jpg",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-06",
+        "titulo":"fincas-06",
+        "imagen": ".././assets/imgs/J&J.png",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-07",
+        "titulo":"fincas-07",
+        "imagen": ".././assets/imgs/amada-y-yofirmada.png",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-08",
+        "titulo":"fincas-08",
+        "imagen": ".././assets/imgs/playadia2ps.png",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"fincas-09",
+        "titulo":"fincas-09",
+        "imagen": ".././assets/imgs/varios-movimientos.jpg",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+
+    {
+        "id":"fincas-10",
+        "titulo":"fincas-10",
+        "imagen": ".././assets/imgs/medadog.jpg",
+        "categoria":{
+            "nombre": "fincas",
+            "id":"fincas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-01",
+        "titulo":"locales-01",
+        "imagen": ".././assets/imgs/a1.png",
+        "categoria":{
+            "nombre": "Locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-02",
+        "titulo":"locales-02",
+        "imagen": ".././assets/imgs/0010_cam1.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-03",
+        "titulo":"locales-03",
+        "imagen": ".././assets/imgs/0011_cam1.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-03",
+        "titulo":"locales-03",
+        "imagen": ".././assets/imgs/005_cam2.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-04",
+        "titulo":"locales-04",
+        "imagen": ".././assets/imgs/b1.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-05",
+        "titulo":"locales-05",
+        "imagen": ".././assets/imgs/bosque0000002.png",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-06",
+        "titulo":"locales-06",
+        "imagen": ".././assets/imgs/un punto de fuga-Recuperado.png",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-07",
+        "titulo":"locales-07",
+        "imagen": ".././assets/imgs/VrayHab_ps_base_FINL.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-08",
+        "titulo":"locales-08",
+        "imagen": ".././assets/imgs/season2_00000003.png",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-09",
+        "titulo":"locales-09",
+        "imagen": ".././assets/imgs/JUEGO 1.png",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-10",
+        "titulo":"locales-10",
+        "imagen": ".././assets/imgs/teatro.jpg",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"locales-11",
+        "titulo":"locales-11",
+        "imagen": ".././assets/imgs/EXTERIOR1PHOTOSHOP.png",
+        "categoria":{
+            "nombre": "locales",
+            "id":"locales"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-01",
+        "titulo":"bodegas-01",
+        "imagen": ".././assets/imgs/vbfinal.png",
+        "categoria":{
+            "nombre": "Bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-02",
+        "titulo":"bodegas-02",
+        "imagen": ".././assets/imgs/video_logo_plastilina0044.jpg",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-03",
+        "titulo":"bodegas-03",
+        "imagen": ".././assets/imgs/untitled.pngprueba1.png",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-04",
+        "titulo":"bodegas-04",
+        "imagen": ".././assets/imgs/oferverdebilu.png",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-05",
+        "titulo":"bodegas-05",
+        "imagen": ".././assets/imgs/INFOGRAFIA-CLASICO-297.png",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-06",
+        "titulo":"bodegas-06",
+        "imagen": ".././assets/imgs/vino3.jpg",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    },
+    {
+        "id":"bodegas-07",
+        "titulo":"bodegas-07",
+        "imagen": ".././assets/imgs/NEWPOSTVERDE.png",
+        "categoria":{
+            "nombre": "bodegas",
+            "id":"bodegas"
+        },
+        "descripcion": "Inmueble para venta con 102.5 metros cuadrado"
+    }
+    
+]
