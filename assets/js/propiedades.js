@@ -15,6 +15,11 @@ const contenedorPropiedades = document.querySelector('#contenedor__productos');
 const btnCategorias = document.querySelectorAll('.btnCategoria');
 const tituloPrincipal = document.querySelector('#tituloPropiedad');
 
+const openModal = document.querySelector('.bntPropiedades');
+const modal = document.querySelector('.modal');
+const closeModal = document.querySelector('.cerrarModal');
+
+
 function cargarProductos(productosElegidos) {
 
     contenedorPropiedades.innerHTML = "";
@@ -29,6 +34,7 @@ function cargarProductos(productosElegidos) {
                             <h3 class="tituloProp">${propiedad.titulo}</h3>
                             <p class="descripcionPropiedades">${propiedad.descripcion}</p>
                             <button class="bntPropiedades" id="${propiedad.id}">Saber mas</button>
+                
             </div>
         `;
         contenedorPropiedades.append(div);
@@ -62,6 +68,16 @@ btnCategorias.forEach(boton =>{
 
     })
 
+})
+
+openModal.addEventListener('click', (e) => {
+    e.preventDefault();
+    modal.classList.add('modal--show');
+});
+
+closeModal.addEventListener('click', (e) => {
+    e.preventDefault();
+    modal.classList.remove('modal--show');
 })
 
 
